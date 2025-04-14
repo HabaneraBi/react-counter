@@ -1,0 +1,15 @@
+* {
+  font-family: "Calibri";
+}
+
+.h1 {
+  margin-bottom: 0;
+  font-size: 28px;
+  color: rgb(109, 106, 124);
+}
+
+.p {
+  font-size: 70px;
+  margin: 0;
+  font-weight: bold;
+}

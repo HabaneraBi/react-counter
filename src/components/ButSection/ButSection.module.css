@@ -1,0 +1,6 @@
+.secBut {
+  margin-top: 15px;
+  display: flex;
+  width: 32%;
+  justify-content: space-between;
+}
